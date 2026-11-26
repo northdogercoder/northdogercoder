@@ -1,6 +1,6 @@
 # Hi, I'm Anders 👋
 
-I'm **Anders Fratta** ([@northdogercoder](https://github.com/northdogercoder)). I build software across the stack — Rust services and clients, Astro front ends, Python tooling, and the occasional Java project.
+I'm **Anders** ([@northdogercoder](https://github.com/northdogercoder)). I build software across the stack — Rust services and clients, Astro front ends, Python tooling, and the occasional Java project.
 
 - 🔭 Currently building a Rust TV client/server pair and [northdoge.com](https://northdoge.com)
 - 🌐 Website: [northdoge.com](https://northdoge.com)
